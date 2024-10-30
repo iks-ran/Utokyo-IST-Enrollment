@@ -1,0 +1,81 @@
+# Custom
+Enrollment.md
+Enrollment.html
+convert.sh
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+*.log
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+vendor/
+log/
+tmp/
+db/*.sqlite3
+db/*.sqlite3-journal
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.iml
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Miscellaneous
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+*.class
+*.cache
+
+# Coverage reports
+coverage/
+*.cover
+*.lcov
+
+# Build directories
+build/
+dist/
+out/
